@@ -4,3 +4,6 @@
 [submodule "libraries/SFML"]
 	path = libraries/SFML
 	url = https://github.com/glenfletcher-gamedev/sfml.git
+[submodule "libraries/AGL"]
+	path = libraries/AGL
+	url = https://github.com/glenfletcher-gamedev/abstract-game-library.git
