@@ -1,0 +1,6 @@
+[submodule "projects/getting-started"]
+	path = projects/getting-started
+	url = https://github.com/glenfletcher-gamedev/getting-started.git
+[submodule "libraries/SFML"]
+	path = libraries/SFML
+	url = https://github.com/glenfletcher-gamedev/sfml.git
