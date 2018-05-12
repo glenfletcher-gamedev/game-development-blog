@@ -7,3 +7,6 @@
 [submodule "libraries/AGL"]
 	path = libraries/AGL
 	url = https://github.com/glenfletcher-gamedev/abstract-game-library.git
+[submodule "projects/pong"]
+	path = projects/pong
+	url = https://github.com/glenfletcher-gamedev/pong.git
